@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
+# This is my first notebook for learning python
+# refrence & credit to https://github.com/wesm/pydata-book
+
 
 # In[2]:
 
